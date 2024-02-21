@@ -7,7 +7,7 @@ Google Gemini is a unified advertising platform introduced by Google. It leverag
 # --chat with ai
 1.python app.py 
 
---chat and image with ai
+# --chat and image with ai
 2.streamlit run main.py 
 
 # workflows
