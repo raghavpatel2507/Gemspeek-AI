@@ -33,3 +33,8 @@ streamlit run main.py
 # website page
 ![Screenshot (80)](https://github.com/raghavpatel2507/Gemspeek-AI/assets/127617393/3f40d8ab-f0cb-49b3-a070-332e686e6f6b)
 
+# screenshort:-2
+![Screenshot (81)](https://github.com/raghavpatel2507/Gemspeek-AI/assets/127617393/8ac8314e-8f71-40dd-ba3c-20c3c353a0f4)
+![Screenshot (82)](https://github.com/raghavpatel2507/Gemspeek-AI/assets/127617393/7716033f-9c14-4f79-a1d6-f13aebad69cc)
+
+
